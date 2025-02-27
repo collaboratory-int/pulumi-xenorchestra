@@ -1,4 +1,4 @@
-module https://github.com/vatesfr/pulumi-xenorchestra/examples
+module github.com/vatesfr/pulumi-xenorchestra/examples
 
 go 1.22
 
